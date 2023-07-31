@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/react_portfolio_site/static/css/main.6aeb0722.css",
+    "main.js": "/react_portfolio_site/static/js/main.0d9794c7.js",
+    "static/js/787.18fdc5d4.chunk.js": "/react_portfolio_site/static/js/787.18fdc5d4.chunk.js",
+    "static/media/sports.jpg": "/react_portfolio_site/static/media/sports.d9b80764df709356f25e.jpg",
+    "static/media/background.jpg": "/react_portfolio_site/static/media/background.2c1db87d3f6764130282.jpg",
+    "static/media/computer-user.jpg": "/react_portfolio_site/static/media/computer-user.8e33012372b87aad2aa0.jpg",
+    "static/media/Image2.jpg": "/react_portfolio_site/static/media/Image2.00756bbac7cd7c7dddbf.jpg",
+    "static/media/Students.jpg": "/react_portfolio_site/static/media/Students.b9f5462cc144368624fc.jpg",
+    "static/media/Image1.jpg": "/react_portfolio_site/static/media/Image1.84a7c719c9cab5e2ea39.jpg",
+    "static/media/Image3.jpg": "/react_portfolio_site/static/media/Image3.91535a879cce66a009c9.jpg",
+    "static/media/Image5.jpg": "/react_portfolio_site/static/media/Image5.26db272c11aa9ad42bf7.jpg",
+    "static/media/FirstImage.jpg": "/react_portfolio_site/static/media/FirstImage.035c9128ad6cc8e29d7c.jpg",
+    "static/media/Evolve Logo.png": "/react_portfolio_site/static/media/Evolve Logo.62a96acd34726f80ce5f.png",
+    "static/media/Image4.jpg": "/react_portfolio_site/static/media/Image4.c444b7b01a6bb2ab8ac9.jpg",
+    "index.html": "/react_portfolio_site/index.html",
+    "main.6aeb0722.css.map": "/react_portfolio_site/static/css/main.6aeb0722.css.map",
+    "main.0d9794c7.js.map": "/react_portfolio_site/static/js/main.0d9794c7.js.map",
+    "787.18fdc5d4.chunk.js.map": "/react_portfolio_site/static/js/787.18fdc5d4.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6aeb0722.css",
+    "static/js/main.0d9794c7.js"
+  ]
+}
