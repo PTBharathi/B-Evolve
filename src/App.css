@@ -1,4 +1,4 @@
-.App {
+/* .App {
   text-align: center;
 }
 
@@ -35,4 +35,231 @@
   to {
     transform: rotate(360deg);
   }
+} */
+.App{
+  /* overflow-x: hidden; */
 }
+  @media (min-width:320px){
+  .ContentSecond {
+      max-width: 320px;
+      overflow-x: hidden;
+      margin-left: 20px;
+      margin-right: 20px;
+  }
+
+  .ContentText h1 {
+    font-family: initial;
+    text-align: center;
+}
+.h1, h1 {
+  font-size: calc(1.475rem + 1.5vw);
+}
+.col-12.col-sm-12.col-mx-12.col-lg-6.col-xl-3.onecard {
+  width: 90%;
+}
+}
+@media (min-width: 375px){
+  .ContentSecond {
+      max-width: 375px;
+      overflow-x: hidden;
+      margin-left: 20px;
+      margin-right: 20px;
+  }
+  .col-6 {
+    flex: 0 0 auto;
+    width: 100%;
+}
+}
+@media (min-width: 425px){
+  .ContentSecond {
+      max-width: 425px;
+      overflow-x: hidden;
+      margin-left: 20px;
+      margin-right: 20px;
+  }
+}
+@media (min-width: 768px){
+  .ContentSecond {
+      max-width: 768px;
+      overflow-x: hidden;
+      margin-left: 20px;
+      margin-right: 20px;
+  }
+}
+ @media (min-width: 1024px){
+    .ContentSecond {
+      max-width: 1024px;
+      overflow-x: hidden;
+      position: relative;
+  }
+  .Navcard{
+    margin-left: 5%;
+}
+  .col-12.col-sm-12.col-mx-6.col-lg-3.col-xl-3.onecard {
+    width: 29%;
+}
+}
+@media (min-width: 1360px){
+  .ContentSecond {
+    max-width: 1440px;
+    justify-content: center;
+    /* overflow-x: hidden;
+    margin-left: 40px;
+    margin-right: 40px; */
+}
+.flex-row.ContentSecond.mx-5.p-0.mr-0 {
+  text-align: start;
+  display: inline-flex;
+}
+.FirstImage {
+vertical-align: middle;
+width: 100%;
+margin-left: 20px;
+}
+.ContentText{
+line-height: 40px;
+font-size: 25px;
+font-family: emoj;
+}
+.texttwo {
+  padding: 5px;
+  width: 50%;
+}
+}
+/* @media (min-width: 2559px){
+.ContentSecond {
+    max-width: 2560px;
+    margin-left: 500px;
+    margin-right: 100px;
+}
+.ContentText h1{
+  font-size: 80px;
+}
+.ContentText p{
+  font-size: 38px;
+  font-family: emoj;
+  line-height: 70px;
+  margin-left: 100px;
+}
+.FirstImage {
+  vertical-align: middle;
+  width: 80%;
+}
+
+} */
+
+@media (min-width: 1440px){
+  .ContentSecond {
+      max-width: 1440px;
+      justify-content: center;
+      /* overflow-x: hidden;
+      margin-left: 40px;
+      margin-right: 40px; */
+  }
+  .flex-row.ContentSecond.mx-5.p-0.mr-0 {
+    text-align: start;
+    display: inline-flex;
+}
+.FirstImage {
+  vertical-align: middle;
+  width: 100%;
+  margin-left: 20px;
+}
+.ContentText{
+  line-height: 40px;
+  font-size: 25px;
+  font-family: emoj;
+}
+  .texttwo {
+    padding: 5px;
+    width: 50%;
+}
+.AboutText h2{
+  width: 100px;
+  height: 10px;
+}
+.About .AboutText p{
+  font-size: calc(8px + 1vw);
+  line-height:140%;
+}
+}
+@media (min-width: 2560px){
+  .ContentSecond {
+      max-width: 2560px;
+      margin-left: 500px;
+      margin-right: 100px;
+  }
+  a.col-2.nav-link {
+    font-size: 39px;
+    width: 266px;
+}
+a.col-2.nav-link:focus{
+  font-size: 39px;
+  width: 266px;
+}
+a#basic-nav-dropdown {
+  font-size: 39px;
+    width: 266px;
+}
+a.dropdown-item{
+  font-size: 39px;
+}
+a.dropdown-item:hover{
+  font-size: 39px;
+  background-color: black;
+  color: white;
+}
+a.dropdown-item:focus{
+  font-size: 39px;
+  background-color: black;
+  color: white;
+}
+  a.col-12.navbar-brand{
+    height: 129px;
+    width: 187px;
+    margin-left: -145px;
+}
+  .ContentText h1{
+    font-size: 80px;
+  }
+  .ContentText p{
+    font-size: 38px;
+    font-family: emoj;
+    line-height: 70px;
+    margin-left: 100px;
+  }
+  .FirstImage {
+    vertical-align: middle;
+    width: 80%;
+}
+  /* .ContentText h1{
+      font-size: 60px;
+      font-weight: 800;
+  }
+  .ContentText p{
+    font-size: 40px;
+} */
+.col-12.col-sm-12.col-mx-6.col-lg-3.col-xl-3.onecard {
+  height: 500px;
+  width: 750px;
+}
+.cardtext h3{
+  margin-top: 40px;
+font-size: 70px;
+}
+.cardtext p{
+  font-size: 40px;
+  }
+.About .AboutText h1{
+  font-size: 75px;
+}
+.About .AboutText h2{
+  width: 140px;
+  height: 10px;
+}
+.About .AboutText p{
+  font-size: calc(16px + 1vw);
+  line-height:140%;
+}
+}
+

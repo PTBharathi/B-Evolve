@@ -1,0 +1,39 @@
+.ContentCard{
+    background-color: black;
+    position: relative;
+    border-bottom: 80px solid black;
+    overflow-x: hidden;
+}
+.Navcard{
+    margin-left: 5%;
+    /* margin-right: 80px; */
+}
+.onecard{
+    padding: 40px 40px 40px 40px;
+    text-align-last: center;
+    transition: all 0.3s;
+    background-color: #191919;
+    color: white;
+    margin-right: 40px;
+    margin-top: 40px;
+    width: 90%;
+    border-radius: 10px;
+    text-align: center;
+}
+.onecard:hover{
+    background: linear-gradient(to left, #55b4d4, #5758e0);
+}
+.onecard h3{
+    text-align: center;
+    
+}
+.Cardicon{
+    color: white;
+}
+.ContentFirst {
+   
+}
+.onecard:hover{
+    margin-top: 8px;
+    margin-bottom:18px;
+}

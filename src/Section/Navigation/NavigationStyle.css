@@ -1,0 +1,113 @@
+/* .Navigation{
+    background-color: #00594c;
+} */
+.me-auto.navbar-nav {
+    align-items: center;
+}
+.me-auto.navbar-nav{
+    flex: auto;
+}
+a.nav-link{
+    font-size: 20px;
+}
+.nav-link{
+    text-align: start;
+    color: white;
+}
+.nav-link:hover,.dropdown-item:hover {
+    background: linear-gradient(to left, #55b4d4, #5758e0);
+    font-size: 20px;
+    font-weight: 800;
+    border-radius: 10px;
+}
+a.col-10.navbar-brand {
+    background-color:white;
+}
+a#basic-nav-dropdown:focus {
+    font-size: 20px;
+    font-weight: 800;
+    }
+.nav-link.active,.dropdown-item.focus {
+    background: -webkit-linear-gradient(315deg, #ff4e00 0%, #ec9f05 74%);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+.nav-link.active:hover{
+    color: black;
+    background-color:#f8f9fa ;
+}
+a.nav-link{
+    text-align: center;
+}
+a#basic-nav-dropdown {
+    text-align: center;
+    color: white;
+}
+.dropdown-menu.show {
+    background-color: #f8f9fa;
+}
+a.nav-link.active{
+    color: black;
+    font-size: 20px;
+    font-weight: 800;
+}
+a.dropdown-item:hover{
+    background-color: black;
+    color: white;
+    font-weight: 800;    
+    padding-top: 4px;
+    padding-right: 16px;
+    padding-bottom: 4px;
+    padding-left: 16px;
+
+}
+.dropdown-toggle.show.nav-link:focus{
+    color:black;
+    font-weight: 800;
+}
+link.show {
+    color: white;
+    background-color: black;
+    font-weight: 800;
+}
+.show.dropdown{
+    color: black;
+}
+.dropdown {
+    padding-top: 0px;
+    padding-right: 0px;
+    padding-bottom: 0px;
+    padding-left: 0px;
+}
+a#basic-nav-dropdown:focus{
+    /* color: white;
+    background-color: black; */
+    background: -webkit-linear-gradient(315deg, #ff4e00 0%, #ec9f05 74%);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+nav.Navigation{
+    z-index: 1;
+    opacity: 0.8;
+    position: fixed;
+    width: 100%;
+    margin-top: -150px;
+}
+
+nav#nav{
+    background-color:#191919;
+}
+button.navbar-toggler {
+    background-color: white;
+}
+/* div#basic-navbar-nav\ row {
+    background-color: darkslategray;
+}
+a.col-2.nav-link {
+    white-space: nowrap;
+    align-self: normal;
+} */
+
+a.prev,a.next {
+    text-decoration: none;
+}

@@ -1,0 +1,56 @@
+body{
+    background-color: #191919;
+}
+.carousel-caption-bottom {
+    /* color: rgb(255, 254, 254); */
+    color:#ec9f05;
+}
+.dots{
+    color: white;
+}
+.ContentSecond{
+    /* background-color: gray; */
+ }
+ .ContentFirst {
+    position: relative;
+    margin-top: 150px;
+}
+.ContentText h1{
+    color: white;
+}
+.ContentText p{
+    font-weight:500;
+    color: white;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+/*.ContentText h1{
+font-family: initial;
+text-align: center;
+color: white;
+}
+.ContentText p{
+    font-family: emoji;
+    font-size: 18px;
+    margin-right: 10px;
+    color: white;
+}
+.ContentCalander h1{
+ text-align: center;
+ font-family: initial;
+}
+.ContentText {
+    width: 570px;
+}
+.ContentText P {
+    line-height: 25px;
+    font-weight: 400;
+    color: white;
+}
+.ContentSecond{
+    background-color: #012b3a; 
+} */
+
+img, svg {
+    vertical-align: middle;
+    width: 100%;
+}

@@ -1,0 +1,28 @@
+.About{
+    background-color: #191919;
+}
+.AboutContainer{
+    margin-left: 10%;
+    margin-right: 10%;
+
+}
+.AboutText h1{
+color: white;
+font-size: 40px;
+}
+.AboutText p{
+    color: white;
+    font-size: 20px;
+    line-height: 30px;
+    }
+.AboutImage{
+    margin-top: 50px;
+}
+.AboutText h2{
+    margin-top: 70px;
+    width: 55px;
+    margin-bottom: 0.5rem;
+    height: 5px;
+    display: inline-block;
+    background: linear-gradient(to left, #55b4d4, #5758e0);
+}
